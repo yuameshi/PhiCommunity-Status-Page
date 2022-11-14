@@ -1,5 +1,5 @@
 window.Config = {
-	SiteName: 'PhiCommunityの服务状态',
+	SiteName: 'PhiCommunity服务状态',
 	SiteUrl: '/',
 	ApiKeys: [
 		'm791467577-3073005bd6873c408735f51c', //GH
@@ -13,8 +13,12 @@ window.Config = {
 	CountDays: 60,
 	Navi: [
 		{
-			text: 'Yuameshiの窝',
-			url: 'https://www.yuameshi.top'
+			text: '糸の窝',
+			url: 'https://www.yuameshi.top/'
+		},
+		{
+			text: 'PhiCommunity',
+			url: 'https://phicommunity.com.cn/'
 		},
 		{
 			text: 'GitHub',
